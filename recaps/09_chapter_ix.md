@@ -152,6 +152,49 @@ Johnny explicitly connects the knocking Jed produces in the house to the ghost s
 
 ---
 
+## Connections to Previous Chapters
+
+### Holloway's Rifle — Always His Defining Detail
+Chapter VII introduces Holloway with his first appearance: he *"steps from a truck carrying a Weatherby .300 magnum rifle."* The rifle is the first thing Zampanô mentions about him. It is the same weapon used to shoot Wax here. The gun was never incidental — it defined how Holloway relates to the unknown before he ever entered the house.
+
+### Jed's Direction Sense — His One Tool, Now Broken
+Chapter VII notes explicitly that Jed has *"an uncanny sense of direction"* and that **Jed's orientation is the team's only reliable navigation** once the compass fails and the fishing line runs out. Chapter IX's most quietly devastating line is Jed on camera: *"So much for my sense of direction."* The skill that was supposed to save them is gone. The house beat the one instrument that held.
+
+### The Fishing Line — Chapter VII's Warning Paid Off
+Chapter VII closes with a note to watch what happens when the fishing line is exhausted. In Chapter IX, Holloway runs into the dark *without laying any line at all*, abandoning every safety protocol. This is the exact failure the earlier chapter flagged. The line was the umbilical cord; Holloway cuts it himself.
+
+### The Growl — The One Thing That Kept Them Safe
+Chapter VII records a small but crucial observation: *"continued use [of the hallway] seems to deter the growl and preserve the path — as if the house adapts."* The implication is that rational exploration (neon markers, fishing line, discipline) suppressed the threat. Holloway in Chapter IX does the opposite: he *pursues* the growl, abandons protocol, and the house responds by consuming their caches, destroying their gear, and swallowing him.
+
+### Holloway's Fear of Being Cut Out — The Real Driver
+Chapter VII is explicit: *"He feared Navidson would get rid of him and thus deprive him of the recognition he had spent a lifetime trying to obtain."* This is what makes him refuse to "abort the mission" in Chapter IX — not just irrational obsession but the accumulated paranoia of a man who believes turning back equals permanent defeat. The house's darkness found the existing crack in him.
+
+### Jed's Fiancée and Wax's Personality
+Chapter VII introduces both men with specificity: Jed has a Texan fiancée; Wax is *"a rocky face is always better than you"* — cavalier, fearless, the one who never brags about climbing. Chapter IX ends with Wax shot, bleeding, trying to smile for the camera, asking for water. And Jed alone in the dark sobbing. Everything Chapter VII established about who these two were is what makes their current state so brutal.
+
+### Wax's Last Clear Line — The House Reading Him
+Wax's observation as his gear dissolves: *"Like you stop thinking about something and it vanishes... Don't take nothing for granted here."* This is the most lucid description of the house's behavior in the chapter — and it comes from the most reckless member of the team. Wax, who had less existential baggage than Holloway, sees the mechanism clearly. The house expurges what you forget. Consciousness is the only protection.
+
+### Zampanô's Minotaur = Johnny's Raymond
+Zampanô's reinterpretation of the Minotaur myth — a deformed child hidden away, called a monster, imprisoned for the pride of his father — maps directly onto Johnny's backstory as established in Chapters VI and VII. Raymond called Johnny *"beast"*; Raymond imprisoned him in a house of abuse; Raymond was a man who could not accept what he'd been given. Johnny *is* the Minotaur in his own story. Zampanô's labyrinth essay is also Johnny's autobiography, which may be why Johnny can't stop reading it.
+
+### Amber Rightacre, War and Peace, and the Bar Natasha
+Chapter IV establishes that Amber Rightacre read *War and Peace* to the blind Zampanô. In Chapter IX's FN 141, Johnny mentions he finally read *War and Peace* himself — and then encounters a woman named Natasha at the bar, whom he describes as *"Tolstoy's prophecy brought to life."* The chain: Zampanô heard about Natasha through Amber → Johnny read about Natasha because of Zampanô → Johnny meets a Natasha. The book's obsessions propagate forward through every reader.
+
+### Thumper's Advice — Almost Taken
+In Chapter VIII, Thumper tells Johnny: *"Come down and see me at work some time. If you want my opinion, you just need to get out of the house."* In Chapter IX, Johnny gets out of the house (barely, through panic), and in his late-night wandering he *almost* goes to Thumper's workplace — the strip club — but the thought suddenly makes him uncomfortable and he calls Lude instead. He nearly followed her advice directly, then veered away.
+
+### "I've Never Been to Texas" — The Theme of Fabricated History
+Johnny's encounter with Ashley closes with him claiming to a woman who has a detailed story of their shared past (they met in Texas, kissed, she's been haunted by it for years) that he has *never been to Texas.* This echoes the book's ongoing problem of false and altered histories: Zampanô citing sources he obscured, Johnny admitting he added the word "water" (Chapter II), the Navidson Record itself being a film no one can verify. No one's account can be trusted. Everyone's Texas is different.
+
+### Billy Reston's Preparedness for the Impossible
+Chapter IV establishes why Reston never doubts: in India, a moment of disbelief (not believing the pole had really fallen) cost him his legs. He vowed never to doubt again. This is why Zampanô in Chapter VIII praises him for being unconfounded by the house's impossibility. In Chapter IX, as Navidson's rescue team prepares, Reston's psychological completeness is the team's only stable element — everyone else is operating with increasing fractures.
+
+### Karen's Claustrophobia and "All Solutions Are Personal"
+Zampanô's conclusion in the labyrinth essay — *"All solutions are necessarily personal"* — directly maps onto every character's response to the house. Karen's solution (established in Chapter V) is to never go in. Navidson's is to go as deep as possible. Holloway's was to hunt. Jed's is to document and try to find the rational path out. Each is singular, each is theirs alone, and each is failing or succeeding on its own terms.
+
+---
+
 ## Key Themes
 
 - **The labyrinth as repression**: Minos built it to hide what he could not accept. Holloway is building his own internal one — the house is just the architecture of it.
