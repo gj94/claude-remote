@@ -129,9 +129,11 @@ def classify(row) -> str:
     pct = row["pct_complete"]
     m   = row["Margin"]
 
-    if ci <= 10:
+    # Knife-edge: tiny contest_index OR projected margin under 500
+    if ci <= 10 or pm < 500:
         return "knife-edge"
-    if ci <= 40:
+    # Competitive: contest_index in range OR projected margin under 3000
+    if ci <= 40 or pm < 3_000:
         return "competitive"
     if pm >= 20_000 or (pct >= 0.75 and m >= 5_000):
         return "decided"
@@ -164,8 +166,8 @@ COL_WIDTHS = {
 }
 
 LEGEND = [
-    ("knife-edge", "FF6B6B", "Contest index ≤ 10  — margin tiny relative to rounds left"),
-    ("competitive", "FFB347", "Contest index 10–40 — still very much in play"),
+    ("knife-edge", "FF6B6B", "Contest index ≤ 10 OR projected margin < 500 — could flip any round"),
+    ("competitive", "FFB347", "Contest index 10–40 OR projected margin < 3000 — still very much in play"),
     ("decided",     "77DD77", "Projected margin ≥ 20k or counting 75%+ done with big lead"),
 ]
 
